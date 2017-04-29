@@ -25,11 +25,11 @@ Author URI: http://twitter.com/sergiom23
 
 @font-face {
   font-family: 'San Francisco Display';
-  src: url('SanFranciscoDisplay-Bold.eot'); /* IE9 Compat Modes */
-  src: url('SanFranciscoDisplay-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('SanFranciscoDisplay-Bold.woff') format('woff'), /* Modern Browsers */
-       url('SanFranciscoDisplay-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('SanFranciscoDisplay-Bold.svg#f067643f4a3e701ed850f65a5d4575ff') format('svg'); /* Legacy iOS */
+  src: url('../fonts/SanFranciscoDisplay-Bold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/SanFranciscoDisplay-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/SanFranciscoDisplay-Bold.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/SanFranciscoDisplay-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/SanFranciscoDisplay-Bold.svg#f067643f4a3e701ed850f65a5d4575ff') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
   font-weight:  700;
@@ -37,11 +37,11 @@ Author URI: http://twitter.com/sergiom23
 
 @font-face {
   font-family: 'San Francisco Display';
-  src: url('SanFranciscoDisplay-Light.eot'); /* IE9 Compat Modes */
-  src: url('SanFranciscoDisplay-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('SanFranciscoDisplay-Light.woff') format('woff'), /* Modern Browsers */
-       url('SanFranciscoDisplay-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('SanFranciscoDisplay-Light.svg#faceadcdac62602c438a7592b32945af') format('svg'); /* Legacy iOS */
+  src: url('../fonts/SanFranciscoDisplay-Light.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/SanFranciscoDisplay-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/SanFranciscoDisplay-Light.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/SanFranciscoDisplay-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/SanFranciscoDisplay-Light.svg#faceadcdac62602c438a7592b32945af') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
   font-weight:  200;
